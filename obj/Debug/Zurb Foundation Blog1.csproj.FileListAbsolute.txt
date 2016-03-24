@@ -1,0 +1,6 @@
+C:\Users\meyea01\Documents\GitHub\Test\Zurb Foundation Blog1\Zurb Foundation Blog1\bin\Zurb Foundation Blog1.dll.config
+C:\Users\meyea01\Documents\GitHub\Test\Zurb Foundation Blog1\Zurb Foundation Blog1\bin\Zurb Foundation Blog1.dll
+C:\Users\meyea01\Documents\GitHub\Test\Zurb Foundation Blog1\Zurb Foundation Blog1\bin\Zurb Foundation Blog1.pdb
+C:\Users\meyea01\Documents\GitHub\Test\Zurb Foundation Blog1\Zurb Foundation Blog1\obj\Debug\Zurb Foundation Blog1.csprojResolveAssemblyReference.cache
+C:\Users\meyea01\Documents\GitHub\Test\Zurb Foundation Blog1\Zurb Foundation Blog1\obj\Debug\Zurb Foundation Blog1.dll
+C:\Users\meyea01\Documents\GitHub\Test\Zurb Foundation Blog1\Zurb Foundation Blog1\obj\Debug\Zurb Foundation Blog1.pdb
